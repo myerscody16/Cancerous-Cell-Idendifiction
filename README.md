@@ -2,18 +2,14 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+3. [FAQs](#faqs)
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+This project focuses on reducing the amount of time that it takes for a cancer diagnosis to take place. At this time, this model is 86.7% accurate at identifying cancerous cells in CT scans of possible cancer patients. By speeding up the time table that it takes for a patient to recieve their diagnosis, we give that patient more time to find ways to fight their cancer. 
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [Tensorflow/Keras](https://example.com): Version 2.5.0
 ## FAQs
 ***
 A list of frequently asked questions
