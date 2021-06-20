@@ -9,7 +9,7 @@ This project focuses on reducing the amount of time that it takes for a cancer d
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Tensorflow/Keras](https://example.com): Version 2.5.0
+* [Tensorflow/Keras](https://www.tensorflow.org/): Version 2.5.0
 ## FAQs
 ***
 A list of frequently asked questions
